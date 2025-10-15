@@ -5,6 +5,7 @@ Developer guide for otc-api-sign-sdk-python
    :maxdepth: 10
    :hidden:
 
+   Installation <installation/_index>
    Samples <samples/_index>
 
 OpenTelekomCloud Community SDK for signing API requests using python.
