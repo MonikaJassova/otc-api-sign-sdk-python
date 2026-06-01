@@ -2,7 +2,7 @@ AK/SK signing examples
 ======================
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 1
    :includehidden:
 
    Start ECS ak/sk <ecs/_index>
