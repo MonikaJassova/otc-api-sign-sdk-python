@@ -12,7 +12,7 @@ if __name__ == "__main__":
     ak=os.environ.get("OTC_SDK_AK")
     sk=os.environ.get("OTC_SDK_SK")   
     
-    project_id = os.environ.get("OTC_SDK_PROJECT_ID")
+    project_id = os.environ.get("OTC_SDK_PROJECTID")
     instance_id = os.environ.get("ECS_INSTANCE_ID")
     
     if ak is None or sk is None:
@@ -20,7 +20,7 @@ if __name__ == "__main__":
         exit(1) 
         
     if project_id is None:
-        print("Please set environment variable OTC_SDK_PROJECT_ID")
+        print("Please set environment variable OTC_SDK_PROJECTID")
         exit(1) 
         
     if instance_id is None:

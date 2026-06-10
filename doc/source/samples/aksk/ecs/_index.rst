@@ -26,7 +26,7 @@ Requirements
       - <ID of ecs instance>
       - 
 
-    * - OTC_SDK_PROJECT_ID
+    * - OTC_SDK_PROJECTID
       - <Project ID>
       - Needed if ecs instance is in a sub project see :api_usage:`Obtaining a Project ID<guidelines/calling_apis/obtaining_required_information.html#obtaining-a-project-id>`
 
